@@ -1,56 +1,942 @@
 {
-.appVersion = "3149";
+.appVersion = "3151";
 .formatVersion = 3;
+DisplayStrings = (
+Ex
+);
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
 date = "2022-04-03 17:04:08 +0000";
 familyName = "Noto Sans Nag Mundari";
 fontMaster = (
 {
+axesValues = (
+400
+);
 id = m01;
 metricValues = (
 {
 over = 16;
-pos = 800;
+pos = 1069;
 },
 {
 over = 16;
-pos = 700;
+pos = 714;
 },
 {
 over = 16;
-pos = 500;
+pos = 536;
 },
 {
 over = -16;
 },
 {
 over = -16;
-pos = -200;
+pos = -293;
 },
 {
 over = -16;
 }
 );
 name = Regular;
+},
+{
+axesValues = (
+700
+);
+id = m002;
+metricValues = (
+{
+over = 16;
+pos = 1069;
+},
+{
+over = 16;
+pos = 714;
+},
+{
+over = 16;
+pos = 536;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -293;
+},
+{
+over = -16;
+}
+);
+name = Bold;
 }
 );
 glyphs = (
 {
+glyphname = E;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 69;
+},
+{
+glyphname = x;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 120;
+},
+{
+glyphname = zero;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 48;
+},
+{
+glyphname = one;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 49;
+},
+{
+glyphname = two;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 50;
+},
+{
+glyphname = three;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 51;
+},
+{
+glyphname = four;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 52;
+},
+{
+glyphname = five;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 53;
+},
+{
+glyphname = six;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 54;
+},
+{
+glyphname = seven;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 55;
+},
+{
+glyphname = eight;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 56;
+},
+{
+glyphname = nine;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 57;
+},
+{
 glyphname = space;
+lastChange = "2023-02-04 03:57:03 +0000";
 layers = (
 {
 layerId = m01;
 width = 200;
+},
+{
+layerId = m002;
+width = 200;
 }
 );
 unicode = 32;
+},
+{
+glyphname = period;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 46;
+},
+{
+glyphname = comma;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 44;
+},
+{
+glyphname = colon;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 58;
+},
+{
+glyphname = semicolon;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 59;
+},
+{
+glyphname = ellipsis;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 8230;
+},
+{
+glyphname = exclam;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 33;
+},
+{
+glyphname = question;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 63;
+},
+{
+glyphname = periodcentered;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 183;
+},
+{
+glyphname = bullet;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 8226;
+},
+{
+glyphname = asterisk;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 42;
+},
+{
+glyphname = numbersign;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 35;
+},
+{
+glyphname = slash;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 47;
+},
+{
+glyphname = backslash;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 92;
+},
+{
+glyphname = hyphen;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 45;
+},
+{
+glyphname = endash;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 8211;
+},
+{
+glyphname = emdash;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 8212;
+},
+{
+glyphname = underscore;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 95;
+},
+{
+glyphname = parenleft;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 40;
+},
+{
+glyphname = parenright;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 41;
+},
+{
+glyphname = braceleft;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 123;
+},
+{
+glyphname = braceright;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 125;
+},
+{
+glyphname = bracketleft;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 91;
+},
+{
+glyphname = bracketright;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 93;
+},
+{
+glyphname = quotedblleft;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 8220;
+},
+{
+glyphname = quotedblright;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 8221;
+},
+{
+glyphname = quoteleft;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 8216;
+},
+{
+glyphname = quoteright;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 8217;
+},
+{
+glyphname = quotedbl;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 34;
+},
+{
+glyphname = quotesingle;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 39;
+},
+{
+glyphname = at;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 64;
+},
+{
+glyphname = ampersand;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 38;
+},
+{
+glyphname = copyright;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 169;
+},
+{
+glyphname = bar;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124;
+},
+{
+glyphname = dollar;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 36;
+},
+{
+glyphname = euro;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 8364;
+},
+{
+glyphname = rupeeIndian;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 8377;
+},
+{
+glyphname = plus;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 43;
+},
+{
+glyphname = equal;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 61;
+},
+{
+glyphname = greater;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 62;
+},
+{
+glyphname = less;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 60;
+},
+{
+glyphname = asciitilde;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 126;
+},
+{
+glyphname = asciicircum;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 94;
+},
+{
+glyphname = percent;
+lastChange = "2023-02-04 03:57:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 37;
 }
 );
 instances = (
 {
+axesValues = (
+400
+);
 instanceInterpolations = {
 m01 = 1;
 };
 name = Regular;
+},
+{
+axesValues = (
+700
+);
+instanceInterpolations = {
+m002 = 1;
+};
+name = Bold;
+weightClass = 700;
 }
 );
 metrics = (
@@ -104,6 +990,19 @@ language = dflt;
 value = "Noto is a trademark of Google Inc.";
 }
 );
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Muthu Nedumaran";
+}
+);
+},
+{
+key = designerURL;
+value = "https://murasu.com";
 }
 );
 unitsPerEm = 1000;
