@@ -2,8 +2,7 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-Ex,
-"/em-nagmundari"
+"𞓚"
 );
 axes = (
 {
@@ -17,6 +16,12 @@ fontMaster = (
 {
 axesValues = (
 400
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = "em-nagmundari";
+}
 );
 id = m01;
 metricValues = (
@@ -48,6 +53,12 @@ name = Regular;
 {
 axesValues = (
 700
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = "em-nagmundari";
+}
 );
 id = m002;
 metricValues = (
@@ -107,6 +118,1040 @@ width = 600;
 }
 );
 unicode = 120;
+},
+{
+glyphname = "ojod-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124139;
+},
+{
+glyphname = "o-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124112;
+},
+{
+glyphname = "op-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124113;
+},
+{
+glyphname = "ol-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124114;
+},
+{
+glyphname = "oy-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124115;
+},
+{
+glyphname = "ong-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124116;
+},
+{
+glyphname = "a-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124117;
+},
+{
+glyphname = "aj-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124118;
+},
+{
+glyphname = "ab-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124119;
+},
+{
+glyphname = "any-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124120;
+},
+{
+glyphname = "ah-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124121;
+},
+{
+color = 1;
+glyphname = "i-nagmundari";
+lastChange = "2023-02-08 09:35:59 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(421,561,l),
+(402,542,o),
+(344,513,o),
+(286,513,cs),
+(211,513,o),
+(179,542,o),
+(179,617,cs),
+(179,715,l),
+(99,715,l),
+(99,617,ls),
+(99,498,o),
+(173,437,o),
+(286,437,cs),
+(335,437,o),
+(398,464,o),
+(426,490,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(320,187,ls),
+(299,106,o),
+(261,56,o),
+(193,56,cs),
+(155,56,o),
+(130,87,o),
+(130,130,cs),
+(130,206,o),
+(243,275,o),
+(376,275,cs),
+(497,275,o),
+(665,225,o),
+(665,129,cs),
+(665,92,o),
+(645,56,o),
+(605,56,cs),
+(567,56,o),
+(540,90,o),
+(540,144,cs),
+(540,229,o),
+(608,331,o),
+(643,381,c),
+(575,423,l),
+(539,368,o),
+(470,259,o),
+(470,144,cs),
+(470,36,o),
+(538,-16,o),
+(597,-16,cs),
+(687,-16,o),
+(735,52,o),
+(735,129,cs),
+(735,250,o),
+(609,347,o),
+(376,347,cs),
+(196,347,o),
+(50,254,o),
+(50,130,cs),
+(50,41,o),
+(115,-16,o),
+(192,-16,cs),
+(276,-16,o),
+(360,24,o),
+(394,155,cs),
+(539,714,l),
+(456,714,l)
+);
+}
+);
+width = 775;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(404,616,l),
+(389,588,o),
+(330,533,o),
+(278,533,cs),
+(226,533,o),
+(200,559,o),
+(200,626,cs),
+(200,715,l),
+(66,715,l),
+(66,647,ls),
+(66,455,o),
+(171,423,o),
+(252,423,cs),
+(330,423,o),
+(386,471,o),
+(409,511,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(297,210,ls),
+(272,114,o),
+(231,84,o),
+(193,84,cs),
+(155,84,o),
+(140,116,o),
+(140,137,cs),
+(140,198,o),
+(223,257,o),
+(396,257,cs),
+(537,257,o),
+(695,217,o),
+(695,137,cs),
+(695,100,o),
+(668,84,o),
+(645,84,cs),
+(616,84,o),
+(590,106,o),
+(590,144,cs),
+(590,229,o),
+(658,331,o),
+(693,381,c),
+(598,443,l),
+(562,388,o),
+(480,259,o),
+(480,144,cs),
+(480,36,o),
+(563,-16,o),
+(642,-16,cs),
+(752,-16,o),
+(805,54,o),
+(805,137,cs),
+(805,258,o),
+(659,367,o),
+(396,367,cs),
+(176,367,o),
+(20,254,o),
+(20,130,cs),
+(20,41,o),
+(86,-16,o),
+(192,-16,cs),
+(299,-16,o),
+(389,37,o),
+(430,193,cs),
+(568,714,l),
+(429,714,l)
+);
+}
+);
+width = 758;
+}
+);
+unicode = 124122;
+},
+{
+glyphname = "is-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124123;
+},
+{
+glyphname = "idd-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124124;
+},
+{
+glyphname = "it-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124125;
+},
+{
+glyphname = "ih-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124126;
+},
+{
+glyphname = "u-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124127;
+},
+{
+glyphname = "uc-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124128;
+},
+{
+glyphname = "ud-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124129;
+},
+{
+glyphname = "uk-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124130;
+},
+{
+glyphname = "ur-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124131;
+},
+{
+glyphname = "e-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124132;
+},
+{
+glyphname = "enn-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124133;
+},
+{
+glyphname = "eg-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124134;
+},
+{
+color = 1;
+glyphname = "em-nagmundari";
+lastChange = "2023-02-08 09:34:57 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(236,483,ls),
+(312,403,o),
+(351,306,o),
+(351,215,cs),
+(351,106,o),
+(303,56,o),
+(250,56,cs),
+(183,56,o),
+(140,137,o),
+(140,242,cs),
+(140,441,o),
+(323,658,o),
+(446,658,cs),
+(508,658,o),
+(544,601,o),
+(544,454,cs),
+(544,0,l),
+(624,0,l),
+(624,472,ls),
+(624,665,o),
+(543,730,o),
+(445,730,cs),
+(275,730,o),
+(60,488,o),
+(60,238,cs),
+(60,89,o),
+(137,-16,o),
+(246,-16,cs),
+(335,-16,o),
+(431,55,o),
+(431,216,cs),
+(431,340,o),
+(374,454,o),
+(293,539,cs),
+(120,721,l),
+(64,664,l)
+);
+}
+);
+width = 714;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(225,445,ls),
+(304,366,o),
+(353,274,o),
+(353,201,cs),
+(353,122,o),
+(312,94,o),
+(274,94,cs),
+(221,94,o),
+(186,137,o),
+(186,242,cs),
+(186,441,o),
+(349,614,o),
+(439,614,cs),
+(513,614,o),
+(534,555,o),
+(534,444,cs),
+(534,0,l),
+(668,0,l),
+(668,446,ls),
+(668,639,o),
+(618,730,o),
+(465,730,cs),
+(271,730,o),
+(52,488,o),
+(52,238,cs),
+(52,89,o),
+(134,-16,o),
+(268,-16,cs),
+(361,-16,o),
+(473,44,o),
+(473,219,cs),
+(473,339,o),
+(391,454,o),
+(310,539,cs),
+(137,721,l),
+(45,626,l)
+);
+}
+);
+width = 758;
+}
+);
+unicode = 124135;
+},
+{
+glyphname = "en-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124136;
+},
+{
+glyphname = "ett-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124137;
+},
+{
+glyphname = "ell-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124138;
+},
+{
+export = 0;
+glyphname = "em-nagmundari.001";
+lastChange = "2023-02-08 09:36:06 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(236,483,ls),
+(312,403,o),
+(351,306,o),
+(351,215,cs),
+(351,106,o),
+(303,56,o),
+(250,56,cs),
+(183,56,o),
+(140,137,o),
+(140,242,cs),
+(140,441,o),
+(323,658,o),
+(446,658,cs),
+(508,658,o),
+(544,601,o),
+(544,454,cs),
+(544,0,l),
+(624,0,l),
+(624,472,ls),
+(624,665,o),
+(543,730,o),
+(445,730,cs),
+(275,730,o),
+(60,488,o),
+(60,238,cs),
+(60,89,o),
+(137,-16,o),
+(246,-16,cs),
+(335,-16,o),
+(431,55,o),
+(431,216,cs),
+(431,340,o),
+(374,454,o),
+(293,539,cs),
+(120,721,l),
+(64,664,l)
+);
+}
+);
+width = 714;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(225,445,ls),
+(304,366,o),
+(353,274,o),
+(353,201,cs),
+(353,122,o),
+(312,94,o),
+(274,94,cs),
+(221,94,o),
+(186,137,o),
+(186,242,cs),
+(186,441,o),
+(349,614,o),
+(439,614,cs),
+(513,614,o),
+(534,555,o),
+(534,444,cs),
+(534,0,l),
+(668,0,l),
+(668,446,ls),
+(668,639,o),
+(618,730,o),
+(465,730,cs),
+(271,730,o),
+(52,488,o),
+(52,238,cs),
+(52,89,o),
+(134,-16,o),
+(268,-16,cs),
+(361,-16,o),
+(473,44,o),
+(473,219,cs),
+(473,339,o),
+(391,454,o),
+(310,539,cs),
+(137,721,l),
+(45,626,l)
+);
+}
+);
+width = 758;
+}
+);
+},
+{
+export = 0;
+glyphname = "em-nagmundari.002";
+lastChange = "2023-02-08 09:36:06 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(421,561,l),
+(402,542,o),
+(344,513,o),
+(286,513,cs),
+(211,513,o),
+(179,542,o),
+(179,617,cs),
+(179,715,l),
+(99,715,l),
+(99,617,ls),
+(99,498,o),
+(173,437,o),
+(286,437,cs),
+(335,437,o),
+(398,464,o),
+(426,490,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(320,187,ls),
+(299,106,o),
+(261,56,o),
+(193,56,cs),
+(155,56,o),
+(130,87,o),
+(130,130,cs),
+(130,206,o),
+(243,275,o),
+(376,275,cs),
+(497,275,o),
+(665,225,o),
+(665,129,cs),
+(665,92,o),
+(645,56,o),
+(605,56,cs),
+(567,56,o),
+(540,90,o),
+(540,144,cs),
+(540,229,o),
+(608,331,o),
+(643,381,c),
+(575,423,l),
+(539,368,o),
+(470,259,o),
+(470,144,cs),
+(470,36,o),
+(538,-16,o),
+(597,-16,cs),
+(687,-16,o),
+(735,52,o),
+(735,129,cs),
+(735,250,o),
+(609,347,o),
+(376,347,cs),
+(196,347,o),
+(50,254,o),
+(50,130,cs),
+(50,41,o),
+(115,-16,o),
+(192,-16,cs),
+(276,-16,o),
+(360,24,o),
+(394,155,cs),
+(539,714,l),
+(456,714,l)
+);
+}
+);
+width = 775;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(404,616,l),
+(389,588,o),
+(330,533,o),
+(278,533,cs),
+(226,533,o),
+(200,559,o),
+(200,626,cs),
+(200,715,l),
+(66,715,l),
+(66,647,ls),
+(66,455,o),
+(171,423,o),
+(252,423,cs),
+(330,423,o),
+(386,471,o),
+(409,511,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(297,210,ls),
+(272,114,o),
+(231,84,o),
+(193,84,cs),
+(155,84,o),
+(140,116,o),
+(140,137,cs),
+(140,198,o),
+(223,257,o),
+(396,257,cs),
+(537,257,o),
+(695,217,o),
+(695,137,cs),
+(695,100,o),
+(668,84,o),
+(645,84,cs),
+(616,84,o),
+(590,106,o),
+(590,144,cs),
+(590,229,o),
+(658,331,o),
+(693,381,c),
+(598,443,l),
+(562,388,o),
+(480,259,o),
+(480,144,cs),
+(480,36,o),
+(563,-16,o),
+(642,-16,cs),
+(752,-16,o),
+(805,54,o),
+(805,137,cs),
+(805,258,o),
+(659,367,o),
+(396,367,cs),
+(176,367,o),
+(20,254,o),
+(20,130,cs),
+(20,41,o),
+(86,-16,o),
+(192,-16,cs),
+(299,-16,o),
+(389,37,o),
+(430,193,cs),
+(568,714,l),
+(429,714,l)
+);
+}
+);
+width = 758;
+}
+);
+},
+{
+glyphname = "zero-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124144;
+},
+{
+glyphname = "one-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124145;
+},
+{
+glyphname = "two-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124146;
+},
+{
+glyphname = "three-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124147;
+},
+{
+glyphname = "four-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124148;
+},
+{
+glyphname = "five-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124149;
+},
+{
+glyphname = "six-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124150;
+},
+{
+glyphname = "seven-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124151;
+},
+{
+glyphname = "eight-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124152;
+},
+{
+glyphname = "nine-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124153;
 },
 {
 glyphname = zero;
@@ -919,104 +1964,60 @@ width = 600;
 unicode = 37;
 },
 {
-glyphname = "em-nagmundari";
-lastChange = "2023-02-07 15:14:27 +0000";
+glyphname = "muhor-nagmundari";
 layers = (
 {
 layerId = m01;
-shapes = (
-{
-closed = 1;
-nodes = (
-(203,483,ls),
-(279,403,o),
-(318,306,o),
-(318,215,cs),
-(318,106,o),
-(262,64,o),
-(217,64,cs),
-(157,64,o),
-(107,137,o),
-(107,242,cs),
-(107,441,o),
-(289,650,o),
-(404,650,cs),
-(466,650,o),
-(511,601,o),
-(511,454,cs),
-(511,0,l),
-(591,0,l),
-(591,456,ls),
-(591,649,o),
-(510,730,o),
-(412,730,cs),
-(242,730,o),
-(27,488,o),
-(27,238,cs),
-(27,89,o),
-(104,-16,o),
-(213,-16,cs),
-(302,-16,o),
-(398,55,o),
-(398,216,cs),
-(398,340,o),
-(341,454,o),
-(260,539,cs),
-(87,721,l),
-(34,660,l)
-);
-}
-);
 width = 600;
 },
 {
 layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(179,451,ls),
-(257,371,o),
-(303,292,o),
-(303,219,cs),
-(303,118,o),
-(256,94,o),
-(218,94,cs),
-(172,94,o),
-(134,137,o),
-(134,242,cs),
-(134,441,o),
-(299,604,o),
-(389,604,cs),
-(463,604,o),
-(484,555,o),
-(484,444,cs),
-(484,0,l),
-(618,0,l),
-(618,446,ls),
-(618,639,o),
-(563,730,o),
-(410,730,cs),
-(226,730,o),
-(0,488,o),
-(0,238,cs),
-(0,89,o),
-(84,-16,o),
-(218,-16,cs),
-(311,-16,o),
-(423,44,o),
-(423,219,cs),
-(423,339,o),
-(341,454,o),
-(260,539,cs),
-(87,721,l),
-(5,628,l)
-);
-}
-);
 width = 600;
 }
 );
+unicode = 124140;
+},
+{
+glyphname = "toyor-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124141;
+},
+{
+glyphname = "ikir-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124142;
+},
+{
+glyphname = "sutuh-nagmundari";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 124143;
 }
 );
 instances = (
