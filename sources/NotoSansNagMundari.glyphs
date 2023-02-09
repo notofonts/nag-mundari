@@ -3,11 +3,9 @@
 .formatVersion = 3;
 DisplayStrings = (
 "𞓧𞓦𞓤𞓢𞓠𞓙𞓘𞓫𞓨𞓞𞓡𞓪𞓩𞓜𞓥",
-"𞓜𞓤𞓝𞓘𞓣𞓨 𞓢𞓣𞓐𞓥𞓔 𞓒𞓡𞓤𞓜𞓑𞓔𞓓 𞓞𞓥𞓔𞓡𞓡𞓤𞓓𞓔𞓛𞓨",
-"𞓐𞓕𞓛𞓤",
-"𞓫𞓐𞓑𞓒𞓓𞓔𞓕𞓖𞓗𞓘𞓙𞓚𞓛𞓜𞓝𞓞𞓟𞓠𞓡𞓢𞓣𞓤𞓥𞓦𞓧𞓨𞓩𞓪",
-"𞓫𞓓𞓔𞓠𞓡𞓤",
-"𞓐𞓟"
+"𞓜𞓤𞓝𞓘𞓣𞓨𞓢𞓣𞓐𞓥𞓔 𞓒𞓡𞓤𞓜𞓑𞓔𞓓 𞓞𞓥𞓔𞓡𞓡𞓤𞓓𞓔𞓛𞓨",
+"𞓮",
+"𞓰"
 );
 axes = (
 {
@@ -104,9 +102,15 @@ glyphs = (
 {
 color = 3;
 glyphname = "ojod-nagmundari";
-lastChange = "2023-02-09 13:40:44 +0000";
+lastChange = "2023-02-09 14:44:10 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (356,0);
+}
+);
 guides = (
 {
 angle = 90;
@@ -183,9 +187,15 @@ unicode = 124139;
 {
 color = 3;
 glyphname = "o-nagmundari";
-lastChange = "2023-02-09 11:12:49 +0000";
+lastChange = "2023-02-09 14:44:00 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (356,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -297,9 +307,15 @@ unicode = 124112;
 {
 color = 1;
 glyphname = "op-nagmundari";
-lastChange = "2023-02-08 15:49:43 +0000";
+lastChange = "2023-02-09 14:43:53 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (396,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -385,9 +401,15 @@ unicode = 124113;
 {
 color = 3;
 glyphname = "ol-nagmundari";
-lastChange = "2023-02-08 16:15:37 +0000";
+lastChange = "2023-02-09 14:43:46 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (356,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -426,9 +448,15 @@ unicode = 124114;
 {
 color = 3;
 glyphname = "oy-nagmundari";
-lastChange = "2023-02-09 13:42:30 +0000";
+lastChange = "2023-02-09 14:44:24 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (336,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -509,9 +537,15 @@ unicode = 124115;
 {
 color = 3;
 glyphname = "ong-nagmundari";
-lastChange = "2023-02-09 13:44:07 +0000";
+lastChange = "2023-02-09 14:44:34 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (354,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -566,9 +600,15 @@ unicode = 124116;
 {
 color = 3;
 glyphname = "a-nagmundari";
-lastChange = "2023-02-09 11:14:35 +0000";
+lastChange = "2023-02-09 14:44:40 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (256,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -641,9 +681,15 @@ unicode = 124117;
 {
 color = 3;
 glyphname = "aj-nagmundari";
-lastChange = "2023-02-09 10:54:43 +0000";
+lastChange = "2023-02-09 14:44:45 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (306,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -701,9 +747,15 @@ unicode = 124118;
 {
 color = 3;
 glyphname = "ab-nagmundari";
-lastChange = "2023-02-09 09:26:01 +0000";
+lastChange = "2023-02-09 14:44:49 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (346,0);
+}
+);
 guides = (
 {
 angle = 90;
@@ -798,9 +850,15 @@ unicode = 124119;
 {
 color = 3;
 glyphname = "any-nagmundari";
-lastChange = "2023-02-09 10:56:18 +0000";
+lastChange = "2023-02-09 14:44:55 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (276,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -859,9 +917,15 @@ unicode = 124120;
 {
 color = 3;
 glyphname = "ah-nagmundari";
-lastChange = "2023-02-09 05:24:28 +0000";
+lastChange = "2023-02-09 14:45:02 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (383,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -924,9 +988,15 @@ unicode = 124121;
 {
 color = 1;
 glyphname = "i-nagmundari";
-lastChange = "2023-02-08 09:35:59 +0000";
+lastChange = "2023-02-09 14:45:07 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (376,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -1088,9 +1158,15 @@ unicode = 124122;
 {
 color = 3;
 glyphname = "is-nagmundari";
-lastChange = "2023-02-09 11:15:27 +0000";
+lastChange = "2023-02-09 14:45:11 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (276,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -1162,9 +1238,15 @@ unicode = 124123;
 {
 color = 3;
 glyphname = "idd-nagmundari";
-lastChange = "2023-02-09 05:28:49 +0000";
+lastChange = "2023-02-09 14:45:17 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (343,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -1223,9 +1305,15 @@ unicode = 124124;
 {
 color = 3;
 glyphname = "it-nagmundari";
-lastChange = "2023-02-09 03:08:13 +0000";
+lastChange = "2023-02-09 14:45:22 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (360,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -1284,9 +1372,15 @@ unicode = 124125;
 {
 color = 3;
 glyphname = "ih-nagmundari";
-lastChange = "2023-02-09 09:03:49 +0000";
+lastChange = "2023-02-09 14:45:26 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (366,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -1338,9 +1432,15 @@ unicode = 124126;
 {
 color = 3;
 glyphname = "u-nagmundari";
-lastChange = "2023-02-09 13:45:02 +0000";
+lastChange = "2023-02-09 14:45:30 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (296,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -1387,9 +1487,15 @@ unicode = 124127;
 {
 color = 3;
 glyphname = "uc-nagmundari";
-lastChange = "2023-02-09 05:43:53 +0000";
+lastChange = "2023-02-09 14:45:35 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (386,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -1460,9 +1566,15 @@ unicode = 124128;
 {
 color = 3;
 glyphname = "ud-nagmundari";
-lastChange = "2023-02-09 13:45:51 +0000";
+lastChange = "2023-02-09 14:45:40 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (342,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -1541,9 +1653,15 @@ unicode = 124129;
 {
 color = 3;
 glyphname = "uk-nagmundari";
-lastChange = "2023-02-09 02:51:17 +0000";
+lastChange = "2023-02-09 14:45:43 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (346,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -1594,9 +1712,15 @@ unicode = 124130;
 {
 color = 3;
 glyphname = "ur-nagmundari";
-lastChange = "2023-02-09 03:08:19 +0000";
+lastChange = "2023-02-09 14:45:50 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (367,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -1703,9 +1827,15 @@ unicode = 124131;
 {
 color = 1;
 glyphname = "e-nagmundari";
-lastChange = "2023-02-09 11:16:00 +0000";
+lastChange = "2023-02-09 14:45:56 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (291,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -1817,9 +1947,15 @@ unicode = 124132;
 {
 color = 3;
 glyphname = "enn-nagmundari";
-lastChange = "2023-02-09 05:50:28 +0000";
+lastChange = "2023-02-09 14:46:01 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (436,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -1881,9 +2017,15 @@ unicode = 124133;
 {
 color = 3;
 glyphname = "eg-nagmundari";
-lastChange = "2023-02-09 05:22:20 +0000";
+lastChange = "2023-02-09 14:46:06 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (431,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -1962,9 +2104,15 @@ unicode = 124134;
 {
 color = 1;
 glyphname = "em-nagmundari";
-lastChange = "2023-02-08 09:34:57 +0000";
+lastChange = "2023-02-09 14:46:10 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (416,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -2064,9 +2212,15 @@ unicode = 124135;
 {
 color = 3;
 glyphname = "en-nagmundari";
-lastChange = "2023-02-09 10:04:35 +0000";
+lastChange = "2023-02-09 14:46:15 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (366,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -2113,9 +2267,15 @@ unicode = 124136;
 {
 color = 3;
 glyphname = "ett-nagmundari";
-lastChange = "2023-02-09 07:10:49 +0000";
+lastChange = "2023-02-09 14:46:19 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (376,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -2165,9 +2325,15 @@ unicode = 124137;
 {
 color = 3;
 glyphname = "ell-nagmundari";
-lastChange = "2023-02-09 09:07:24 +0000";
+lastChange = "2023-02-09 14:46:24 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (396,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -3179,10 +3345,30 @@ unicode = 37;
 },
 {
 glyphname = "muhor-nagmundari";
+lastChange = "2023-02-09 14:38:34 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-29,803,o),
+(0,832,o),
+(0,869,cs),
+(0,905,o),
+(-29,934,o),
+(-65,934,cs),
+(-102,934,o),
+(-131,905,o),
+(-131,869,cs),
+(-131,832,o),
+(-102,803,o),
+(-65,803,cs)
+);
+}
+);
+width = 0;
 },
 {
 layerId = m002;
@@ -3193,10 +3379,22 @@ unicode = 124140;
 },
 {
 glyphname = "toyor-nagmundari";
+lastChange = "2023-02-09 14:40:57 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,972,l),
+(-42,1014,l),
+(-204,852,l),
+(-162,810,l)
+);
+}
+);
+width = 0;
 },
 {
 layerId = m002;
@@ -3207,10 +3405,22 @@ unicode = 124141;
 },
 {
 glyphname = "ikir-nagmundari";
+lastChange = "2023-02-09 14:42:01 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+}
+);
 layerId = m01;
-width = 600;
+shapes = (
+{
+pos = (66,-1053);
+ref = "muhor-nagmundari";
+}
+);
+width = 0;
 },
 {
 layerId = m002;
