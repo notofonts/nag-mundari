@@ -4,7 +4,7 @@
 DisplayStrings = (
 "𞓧𞓦𞓤𞓢𞓠𞓙𞓘𞓫𞓨𞓞𞓡𞓪𞓩𞓜𞓥",
 "𞓫𞓤𞓐𞓑𞓒𞓓𞓔𞓕𞓖𞓗𞓘𞓙𞓚𞓛𞓜𞓝𞓞𞓟𞓠𞓡𞓢𞓣𞓤𞓥𞓦𞓧𞓨𞓩𞓪",
-"𞓐",
+"𞓜𞓤𞓝𞓘𞓣𞓨 𞓢𞓣𞓐𞓥𞓔 𞓒𞓡𞓤𞓜𞓑𞓔𞓓 𞓞𞓥𞓔𞓡𞓡𞓤𞓓𞓔𞓛𞓨",
 "𞓐𞓕𞓛𞓤"
 );
 axes = (
@@ -15,6 +15,14 @@ tag = wght;
 );
 date = "2022-04-03 17:04:08 +0000";
 familyName = "Noto Sans Nag Mundari";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+";
+name = Languagesystems;
+}
+);
 fontMaster = (
 {
 axesValues = (
@@ -3548,6 +3556,7 @@ name = Regular;
 axesValues = (
 700
 );
+exports = 0;
 instanceInterpolations = {
 m002 = 1;
 };
