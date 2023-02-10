@@ -5010,13 +5010,14 @@ axesValues = (
 instanceInterpolations = {
 m01 = 1;
 };
+isBold = 1;
+linkStyle = Regular;
 name = Regular;
 },
 {
 axesValues = (
 700
 );
-exports = 0;
 instanceInterpolations = {
 m002 = 1;
 };
