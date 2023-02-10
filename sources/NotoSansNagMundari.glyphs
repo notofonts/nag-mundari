@@ -4,7 +4,7 @@
 DisplayStrings = (
 "𞓧𞓦𞓤𞓢𞓠𞓙𞓘𞓫𞓨𞓞𞓡𞓪𞓩𞓜𞓥",
 "𞓜𞓤𞓝𞓘𞓣𞓨𞓢𞓣𞓐𞓥𞓔 𞓒𞓡𞓤𞓜𞓑𞓔𞓓 𞓞𞓥𞓔𞓡𞓡𞓤𞓓𞓔𞓛𞓨",
-"𞓮",
+"𞓯",
 "𞓰"
 );
 axes = (
@@ -187,13 +187,25 @@ unicode = 124139;
 {
 color = 3;
 glyphname = "o-nagmundari";
-lastChange = "2023-02-09 14:44:00 +0000";
+lastChange = "2023-02-10 00:24:58 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (356,0);
+},
+{
+name = top;
+pos = (369,714);
+}
+);
+guides = (
+{
+pos = (350,838);
+},
+{
+pos = (345,1015);
 }
 );
 layerId = m01;
@@ -307,13 +319,17 @@ unicode = 124112;
 {
 color = 1;
 glyphname = "op-nagmundari";
-lastChange = "2023-02-09 14:43:53 +0000";
+lastChange = "2023-02-10 00:25:06 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (396,0);
+},
+{
+name = top;
+pos = (399,714);
 }
 );
 layerId = m01;
@@ -401,13 +417,17 @@ unicode = 124113;
 {
 color = 3;
 glyphname = "ol-nagmundari";
-lastChange = "2023-02-09 14:43:46 +0000";
+lastChange = "2023-02-10 00:25:12 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (356,0);
+},
+{
+name = top;
+pos = (353,714);
 }
 );
 layerId = m01;
@@ -448,13 +468,17 @@ unicode = 124114;
 {
 color = 3;
 glyphname = "oy-nagmundari";
-lastChange = "2023-02-09 14:44:24 +0000";
+lastChange = "2023-02-10 00:25:17 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (336,0);
+},
+{
+name = top;
+pos = (374,714);
 }
 );
 layerId = m01;
@@ -537,13 +561,17 @@ unicode = 124115;
 {
 color = 3;
 glyphname = "ong-nagmundari";
-lastChange = "2023-02-09 14:44:34 +0000";
+lastChange = "2023-02-10 00:25:23 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (354,0);
+},
+{
+name = top;
+pos = (364,714);
 }
 );
 layerId = m01;
@@ -600,13 +628,17 @@ unicode = 124116;
 {
 color = 3;
 glyphname = "a-nagmundari";
-lastChange = "2023-02-09 14:44:40 +0000";
+lastChange = "2023-02-10 00:25:27 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (256,0);
+},
+{
+name = top;
+pos = (359,714);
 }
 );
 layerId = m01;
@@ -681,13 +713,17 @@ unicode = 124117;
 {
 color = 3;
 glyphname = "aj-nagmundari";
-lastChange = "2023-02-09 14:44:45 +0000";
+lastChange = "2023-02-10 00:25:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (306,0);
+},
+{
+name = top;
+pos = (329,714);
 }
 );
 layerId = m01;
@@ -747,13 +783,17 @@ unicode = 124118;
 {
 color = 3;
 glyphname = "ab-nagmundari";
-lastChange = "2023-02-09 14:44:49 +0000";
+lastChange = "2023-02-10 00:25:36 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (346,0);
+},
+{
+name = top;
+pos = (339,714);
 }
 );
 guides = (
@@ -850,13 +890,17 @@ unicode = 124119;
 {
 color = 3;
 glyphname = "any-nagmundari";
-lastChange = "2023-02-09 14:44:55 +0000";
+lastChange = "2023-02-10 00:25:43 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (276,0);
+},
+{
+name = top;
+pos = (292,714);
 }
 );
 layerId = m01;
@@ -917,13 +961,17 @@ unicode = 124120;
 {
 color = 3;
 glyphname = "ah-nagmundari";
-lastChange = "2023-02-09 14:45:02 +0000";
+lastChange = "2023-02-10 00:25:46 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (383,0);
+},
+{
+name = top;
+pos = (369,714);
 }
 );
 layerId = m01;
@@ -988,13 +1036,17 @@ unicode = 124121;
 {
 color = 1;
 glyphname = "i-nagmundari";
-lastChange = "2023-02-09 14:45:07 +0000";
+lastChange = "2023-02-10 00:25:48 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (376,0);
+},
+{
+name = top;
+pos = (369,714);
 }
 );
 layerId = m01;
@@ -1158,13 +1210,17 @@ unicode = 124122;
 {
 color = 3;
 glyphname = "is-nagmundari";
-lastChange = "2023-02-09 14:45:11 +0000";
+lastChange = "2023-02-10 00:25:52 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (276,0);
+},
+{
+name = top;
+pos = (369,714);
 }
 );
 layerId = m01;
@@ -1238,13 +1294,17 @@ unicode = 124123;
 {
 color = 3;
 glyphname = "idd-nagmundari";
-lastChange = "2023-02-09 14:45:17 +0000";
+lastChange = "2023-02-10 00:25:56 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (343,0);
+},
+{
+name = top;
+pos = (349,714);
 }
 );
 layerId = m01;
@@ -1305,13 +1365,17 @@ unicode = 124124;
 {
 color = 3;
 glyphname = "it-nagmundari";
-lastChange = "2023-02-09 14:45:22 +0000";
+lastChange = "2023-02-10 00:26:01 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (360,0);
+},
+{
+name = top;
+pos = (360,714);
 }
 );
 layerId = m01;
@@ -1372,13 +1436,17 @@ unicode = 124125;
 {
 color = 3;
 glyphname = "ih-nagmundari";
-lastChange = "2023-02-09 14:45:26 +0000";
+lastChange = "2023-02-10 00:26:04 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (366,0);
+},
+{
+name = top;
+pos = (368,714);
 }
 );
 layerId = m01;
@@ -1432,13 +1500,17 @@ unicode = 124126;
 {
 color = 3;
 glyphname = "u-nagmundari";
-lastChange = "2023-02-09 14:45:30 +0000";
+lastChange = "2023-02-10 00:26:09 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (296,0);
+},
+{
+name = top;
+pos = (299,714);
 }
 );
 layerId = m01;
@@ -1487,13 +1559,17 @@ unicode = 124127;
 {
 color = 3;
 glyphname = "uc-nagmundari";
-lastChange = "2023-02-09 14:45:35 +0000";
+lastChange = "2023-02-10 00:26:12 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (386,0);
+},
+{
+name = top;
+pos = (369,714);
 }
 );
 layerId = m01;
@@ -1566,13 +1642,17 @@ unicode = 124128;
 {
 color = 3;
 glyphname = "ud-nagmundari";
-lastChange = "2023-02-09 14:45:40 +0000";
+lastChange = "2023-02-10 00:26:16 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (342,0);
+},
+{
+name = top;
+pos = (349,714);
 }
 );
 layerId = m01;
@@ -1653,13 +1733,17 @@ unicode = 124129;
 {
 color = 3;
 glyphname = "uk-nagmundari";
-lastChange = "2023-02-09 14:45:43 +0000";
+lastChange = "2023-02-10 00:26:22 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (346,0);
+},
+{
+name = top;
+pos = (362,714);
 }
 );
 layerId = m01;
@@ -1712,13 +1796,17 @@ unicode = 124130;
 {
 color = 3;
 glyphname = "ur-nagmundari";
-lastChange = "2023-02-09 14:45:50 +0000";
+lastChange = "2023-02-10 00:26:27 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (367,0);
+},
+{
+name = top;
+pos = (368,714);
 }
 );
 layerId = m01;
@@ -1827,13 +1915,17 @@ unicode = 124131;
 {
 color = 1;
 glyphname = "e-nagmundari";
-lastChange = "2023-02-09 14:45:56 +0000";
+lastChange = "2023-02-10 00:26:32 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (291,0);
+},
+{
+name = top;
+pos = (309,714);
 }
 );
 layerId = m01;
@@ -1947,13 +2039,17 @@ unicode = 124132;
 {
 color = 3;
 glyphname = "enn-nagmundari";
-lastChange = "2023-02-09 14:46:01 +0000";
+lastChange = "2023-02-10 00:26:35 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (436,0);
+},
+{
+name = top;
+pos = (369,714);
 }
 );
 layerId = m01;
@@ -2017,13 +2113,17 @@ unicode = 124133;
 {
 color = 3;
 glyphname = "eg-nagmundari";
-lastChange = "2023-02-09 14:46:06 +0000";
+lastChange = "2023-02-10 00:26:42 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (431,0);
+},
+{
+name = top;
+pos = (396,714);
 }
 );
 layerId = m01;
@@ -2104,13 +2204,17 @@ unicode = 124134;
 {
 color = 1;
 glyphname = "em-nagmundari";
-lastChange = "2023-02-09 14:46:10 +0000";
+lastChange = "2023-02-10 00:26:46 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (416,0);
+},
+{
+name = top;
+pos = (359,714);
 }
 );
 layerId = m01;
@@ -2212,13 +2316,17 @@ unicode = 124135;
 {
 color = 3;
 glyphname = "en-nagmundari";
-lastChange = "2023-02-09 14:46:15 +0000";
+lastChange = "2023-02-10 00:45:32 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (366,0);
+},
+{
+name = top;
+pos = (366,714);
 }
 );
 layerId = m01;
@@ -2267,13 +2375,17 @@ unicode = 124136;
 {
 color = 3;
 glyphname = "ett-nagmundari";
-lastChange = "2023-02-09 14:46:19 +0000";
+lastChange = "2023-02-10 00:45:35 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (376,0);
+},
+{
+name = top;
+pos = (369,714);
 }
 );
 layerId = m01;
@@ -2325,13 +2437,17 @@ unicode = 124137;
 {
 color = 3;
 glyphname = "ell-nagmundari";
-lastChange = "2023-02-09 14:46:24 +0000";
+lastChange = "2023-02-10 00:45:38 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (396,0);
+},
+{
+name = top;
+pos = (369,714);
 }
 );
 layerId = m01;
@@ -2395,10 +2511,67 @@ unicode = 124138;
 },
 {
 glyphname = "zero-nagmundari";
+lastChange = "2023-02-10 00:50:43 +0000";
 layers = (
 {
+guides = (
+{
+angle = 90;
+pos = (60,932);
+},
+{
+angle = 90;
+pos = (140,932);
+},
+{
+pos = (377,641);
+},
+{
+angle = 90;
+pos = (578,932);
+},
+{
+pos = (377,56);
+}
+);
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(524,-16,o),
+(658,152,o),
+(658,357,cs),
+(658,562,o),
+(524,730,o),
+(359,730,cs),
+(194,730,o),
+(60,562,o),
+(60,357,cs),
+(60,152,o),
+(194,-16,o),
+(359,-16,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(238,56,o),
+(140,187,o),
+(140,349,cs),
+(140,510,o),
+(238,641,o),
+(359,641,cs),
+(480,641,o),
+(578,510,o),
+(578,349,cs),
+(578,187,o),
+(480,56,o),
+(359,56,cs)
+);
+}
+);
+width = 718;
 },
 {
 layerId = m002;
@@ -3344,8 +3517,9 @@ width = 600;
 unicode = 37;
 },
 {
+color = 3;
 glyphname = "muhor-nagmundari";
-lastChange = "2023-02-09 14:38:34 +0000";
+lastChange = "2023-02-10 00:45:50 +0000";
 layers = (
 {
 layerId = m01;
@@ -3378,8 +3552,9 @@ width = 600;
 unicode = 124140;
 },
 {
+color = 3;
 glyphname = "toyor-nagmundari";
-lastChange = "2023-02-09 14:40:57 +0000";
+lastChange = "2023-02-10 00:45:50 +0000";
 layers = (
 {
 layerId = m01;
@@ -3404,8 +3579,9 @@ width = 600;
 unicode = 124141;
 },
 {
+color = 3;
 glyphname = "ikir-nagmundari";
-lastChange = "2023-02-09 14:42:01 +0000";
+lastChange = "2023-02-10 00:45:50 +0000";
 layers = (
 {
 anchors = (
@@ -3430,11 +3606,52 @@ width = 600;
 unicode = 124142;
 },
 {
+color = 3;
 glyphname = "sutuh-nagmundari";
+lastChange = "2023-02-10 00:45:50 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (0,714);
+}
+);
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-168,885,o),
+(-138,917,o),
+(-89,917,cs),
+(-64,917,o),
+(-40,908,o),
+(-12,897,cs),
+(20,884,o),
+(54,872,o),
+(94,872,cs),
+(161,872,o),
+(221,923,o),
+(233,1002,c),
+(180,1016,l),
+(170,969,o),
+(148,937,o),
+(108,937,cs),
+(85,937,o),
+(60,946,o),
+(33,956,cs),
+(1,968,o),
+(-35,981,o),
+(-75,981,cs),
+(-145,981,o),
+(-220,934,o),
+(-233,852,c),
+(-180,838,l)
+);
+}
+);
+width = 0;
 },
 {
 layerId = m002;
@@ -3442,270 +3659,6 @@ width = 600;
 }
 );
 unicode = 124143;
-},
-{
-export = 0;
-glyphname = "_em-nagmundari.001";
-lastChange = "2023-02-08 15:32:12 +0000";
-layers = (
-{
-layerId = m01;
-shapes = (
-{
-closed = 1;
-nodes = (
-(236,483,ls),
-(312,403,o),
-(351,306,o),
-(351,215,cs),
-(351,106,o),
-(303,56,o),
-(250,56,cs),
-(183,56,o),
-(140,137,o),
-(140,242,cs),
-(140,441,o),
-(323,658,o),
-(446,658,cs),
-(508,658,o),
-(544,601,o),
-(544,454,cs),
-(544,0,l),
-(624,0,l),
-(624,472,ls),
-(624,665,o),
-(543,730,o),
-(445,730,cs),
-(275,730,o),
-(60,488,o),
-(60,238,cs),
-(60,89,o),
-(137,-16,o),
-(246,-16,cs),
-(335,-16,o),
-(431,55,o),
-(431,216,cs),
-(431,340,o),
-(374,454,o),
-(293,539,cs),
-(120,721,l),
-(64,664,l)
-);
-}
-);
-width = 714;
-},
-{
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(225,445,ls),
-(304,366,o),
-(353,274,o),
-(353,201,cs),
-(353,122,o),
-(312,94,o),
-(274,94,cs),
-(221,94,o),
-(186,137,o),
-(186,242,cs),
-(186,441,o),
-(349,614,o),
-(439,614,cs),
-(513,614,o),
-(534,555,o),
-(534,444,cs),
-(534,0,l),
-(668,0,l),
-(668,446,ls),
-(668,639,o),
-(618,730,o),
-(465,730,cs),
-(271,730,o),
-(52,488,o),
-(52,238,cs),
-(52,89,o),
-(134,-16,o),
-(268,-16,cs),
-(361,-16,o),
-(473,44,o),
-(473,219,cs),
-(473,339,o),
-(391,454,o),
-(310,539,cs),
-(137,721,l),
-(45,626,l)
-);
-}
-);
-width = 758;
-}
-);
-},
-{
-export = 0;
-glyphname = "_em-nagmundari.002";
-lastChange = "2023-02-08 15:32:17 +0000";
-layers = (
-{
-layerId = m01;
-shapes = (
-{
-closed = 1;
-nodes = (
-(421,561,l),
-(402,542,o),
-(344,513,o),
-(286,513,cs),
-(211,513,o),
-(179,542,o),
-(179,617,cs),
-(179,715,l),
-(99,715,l),
-(99,617,ls),
-(99,498,o),
-(173,437,o),
-(286,437,cs),
-(335,437,o),
-(398,464,o),
-(426,490,c)
-);
-},
-{
-closed = 1;
-nodes = (
-(320,187,ls),
-(299,106,o),
-(261,56,o),
-(193,56,cs),
-(155,56,o),
-(130,87,o),
-(130,130,cs),
-(130,206,o),
-(243,275,o),
-(376,275,cs),
-(497,275,o),
-(665,225,o),
-(665,129,cs),
-(665,92,o),
-(645,56,o),
-(605,56,cs),
-(567,56,o),
-(540,90,o),
-(540,144,cs),
-(540,229,o),
-(608,331,o),
-(643,381,c),
-(575,423,l),
-(539,368,o),
-(470,259,o),
-(470,144,cs),
-(470,36,o),
-(538,-16,o),
-(597,-16,cs),
-(687,-16,o),
-(735,52,o),
-(735,129,cs),
-(735,250,o),
-(609,347,o),
-(376,347,cs),
-(196,347,o),
-(50,254,o),
-(50,130,cs),
-(50,41,o),
-(115,-16,o),
-(192,-16,cs),
-(276,-16,o),
-(360,24,o),
-(394,155,cs),
-(539,714,l),
-(456,714,l)
-);
-}
-);
-width = 775;
-},
-{
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(404,616,l),
-(389,588,o),
-(330,533,o),
-(278,533,cs),
-(226,533,o),
-(200,559,o),
-(200,626,cs),
-(200,715,l),
-(66,715,l),
-(66,647,ls),
-(66,455,o),
-(171,423,o),
-(252,423,cs),
-(330,423,o),
-(386,471,o),
-(409,511,c)
-);
-},
-{
-closed = 1;
-nodes = (
-(297,210,ls),
-(272,114,o),
-(231,84,o),
-(193,84,cs),
-(155,84,o),
-(140,116,o),
-(140,137,cs),
-(140,198,o),
-(223,257,o),
-(396,257,cs),
-(537,257,o),
-(695,217,o),
-(695,137,cs),
-(695,100,o),
-(668,84,o),
-(645,84,cs),
-(616,84,o),
-(590,106,o),
-(590,144,cs),
-(590,229,o),
-(658,331,o),
-(693,381,c),
-(598,443,l),
-(562,388,o),
-(480,259,o),
-(480,144,cs),
-(480,36,o),
-(563,-16,o),
-(642,-16,cs),
-(752,-16,o),
-(805,54,o),
-(805,137,cs),
-(805,258,o),
-(659,367,o),
-(396,367,cs),
-(176,367,o),
-(20,254,o),
-(20,130,cs),
-(20,41,o),
-(86,-16,o),
-(192,-16,cs),
-(299,-16,o),
-(389,37,o),
-(430,193,cs),
-(568,714,l),
-(429,714,l)
-);
-}
-);
-width = 758;
-}
-);
 }
 );
 instances = (
