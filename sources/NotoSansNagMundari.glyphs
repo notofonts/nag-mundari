@@ -1,6 +1,10 @@
 {
 .appVersion = "3151";
 .formatVersion = 3;
+DisplayStrings = (
+"𞓑",
+"𞓱"
+);
 axes = (
 {
 name = Weight;
@@ -410,7 +414,7 @@ unicode = 124112;
 {
 color = 0;
 glyphname = "op-nagmundari";
-lastChange = "2023-02-11 11:46:15 +0000";
+lastChange = "2023-02-14 14:47:39 +0000";
 layers = (
 {
 anchors = (
@@ -483,8 +487,8 @@ nodes = (
 (236,254,l),
 (236,155,l),
 (226,155,l),
-(152,261,l),
-(590,261,l),
+(152,266,l),
+(590,266,l),
 (590,371,l),
 (30,371,l),
 (30,280,l),
