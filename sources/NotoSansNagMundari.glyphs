@@ -34,7 +34,11 @@ DisplayStrings = (
 𞓴𞓷𞓶𞓱𞓰𞓴𞓲𞓷𞓶𞓸   
 
 ",
-"“𞓔𞓕𞓠𞓥𞓤𞓑𞓤𞓙𞓦𞓕𞓜𞓩”"
+"“𞓔𞓕𞓠𞓥𞓤𞓑𞓤𞓙𞓦𞓕𞓜𞓩”",
+"𞓫.𞓐.𞓑.𞓒.𞓓.𞓔.𞓕.𞓖.𞓗.𞓘.𞓙.𞓚.𞓛.𞓜.𞓝.𞓞.𞓟.𞓠.
+𞓡.𞓢.𞓣.𞓤.𞓥.𞓦.𞓧.𞓨.𞓩.𞓪.
+𞓫,𞓐,𞓑,𞓒,𞓓,𞓔,𞓕,𞓖,𞓗,𞓘,𞓙,𞓚,𞓛,𞓜,𞓝,𞓞,𞓟,𞓠,𞓡,𞓢,𞓣,𞓤,𞓥,𞓦,𞓧,𞓨,𞓩,𞓪,",
+","
 );
 axes = (
 {
@@ -7214,7 +7218,7 @@ unicode = 96;
 color = 1;
 glyphname = period;
 kernLeft = period;
-lastChange = "2023-02-18 09:42:55 +0000";
+lastChange = "2023-02-18 11:36:33 +0000";
 layers = (
 {
 layerId = m01;
@@ -7222,14 +7226,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(190,0,l),
-(190,92,l),
-(100,92,l),
-(100,0,l)
+(130,0,l),
+(130,92,l),
+(40,92,l),
+(40,0,l)
 );
 }
 );
-width = 310;
+width = 230;
 },
 {
 layerId = m002;
@@ -7237,14 +7241,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(231,0,l),
-(231,145,l),
-(80,145,l),
-(80,0,l)
+(211,0,l),
+(211,145,l),
+(60,145,l),
+(60,0,l)
 );
 }
 );
-width = 331;
+width = 291;
 }
 );
 note = period;
@@ -7254,7 +7258,7 @@ unicode = 46;
 color = 1;
 glyphname = comma;
 kernLeft = period;
-lastChange = "2023-02-18 09:43:02 +0000";
+lastChange = "2023-02-18 11:37:03 +0000";
 layers = (
 {
 layerId = m01;
@@ -7262,21 +7266,21 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(169,-97,o),
-(200,-44,o),
-(200,0,cs),
-(200,91,l),
-(106,91,l),
-(106,-1,l),
-(138,-1,l),
-(138,-33,o),
-(128,-57,o),
-(100,-90,c),
-(135,-120,l)
+(109,-97,o),
+(140,-44,o),
+(140,0,cs),
+(140,91,l),
+(46,91,l),
+(46,-1,l),
+(78,-1,l),
+(78,-33,o),
+(68,-57,o),
+(40,-90,c),
+(75,-120,l)
 );
 }
 );
-width = 320;
+width = 240;
 },
 {
 layerId = m002;
@@ -7284,23 +7288,25 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(169,-124,o),
-(231,-70,o),
-(231,9,cs),
-(231,145,l),
-(80,145,l),
-(80,0,l),
-(165,0,l),
-(158,-46,o),
-(135,-77,o),
-(88,-102,c),
-(113,-148,l)
+(149,-124,o),
+(211,-70,o),
+(211,9,cs),
+(211,145,l),
+(60,145,l),
+(60,0,l),
+(145,0,l),
+(138,-46,o),
+(115,-77,o),
+(68,-102,c),
+(93,-148,l)
 );
 }
 );
-width = 331;
+width = 291;
 }
 );
+metricLeft = period;
+metricRight = period;
 note = comma;
 unicode = 44;
 },
@@ -10615,11 +10621,41 @@ m01 = {
 "ab-nagmundari" = {
 "ab-nagmundari" = -20;
 };
+"aj-nagmundari" = {
+"@MMK_R_period" = -20;
+};
 "any-nagmundari" = {
 "any-nagmundari" = -50;
 };
 "eight-nagmundari" = {
 "nine-nagmundari" = -150;
+};
+"ell-nagmundari" = {
+"@MMK_R_period" = -20;
+};
+"en-nagmundari" = {
+"@MMK_R_period" = -60;
+};
+"enn-nagmundari" = {
+"@MMK_R_period" = -20;
+};
+"ett-nagmundari" = {
+"@MMK_R_period" = -20;
+};
+"idd-nagmundari" = {
+"@MMK_R_period" = -50;
+};
+"ih-nagmundari" = {
+"@MMK_R_period" = -30;
+};
+"is-nagmundari" = {
+"@MMK_R_period" = -20;
+};
+"it-nagmundari" = {
+"@MMK_R_period" = -50;
+};
+"op-nagmundari" = {
+"@MMK_R_period" = -20;
 };
 seven = {
 four = -80;
@@ -10630,13 +10666,49 @@ four = -80;
 "two-nagmundari" = {
 "nine-nagmundari" = -230;
 };
+"u-nagmundari" = {
+"@MMK_R_period" = -50;
+};
+"uc-nagmundari" = {
+"@MMK_R_period" = 60;
+};
 };
 m002 = {
+"ab-nagmundari" = {
+"@MMK_R_period" = -80;
+};
+"ah-nagmundari" = {
+"@MMK_R_period" = -40;
+};
+"aj-nagmundari" = {
+"@MMK_R_period" = -20;
+};
 "any-nagmundari" = {
 "any-nagmundari" = -70;
 };
 "eight-nagmundari" = {
 "nine-nagmundari" = -150;
+};
+"ell-nagmundari" = {
+"@MMK_R_period" = -20;
+};
+"en-nagmundari" = {
+"@MMK_R_period" = -70;
+};
+"enn-nagmundari" = {
+"@MMK_R_period" = -20;
+};
+"ett-nagmundari" = {
+"@MMK_R_period" = -20;
+};
+"is-nagmundari" = {
+"@MMK_R_period" = -20;
+};
+"o-nagmundari" = {
+"@MMK_R_period" = -20;
+};
+"op-nagmundari" = {
+"@MMK_R_period" = -20;
 };
 seven = {
 four = -40;
@@ -10648,7 +10720,14 @@ four = -40;
 "nine-nagmundari" = -190;
 };
 "u-nagmundari" = {
+"@MMK_R_period" = -40;
 "u-nagmundari" = -30;
+};
+"uc-nagmundari" = {
+"@MMK_R_period" = 20;
+};
+"uk-nagmundari" = {
+"@MMK_R_period" = 20;
 };
 };
 };
