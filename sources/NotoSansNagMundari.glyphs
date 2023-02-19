@@ -3,7 +3,7 @@
 .formatVersion = 3;
 DisplayStrings = (
 "𞓫𞓐𞓑𞓒𞓓𞓔𞓕𞓖𞓗𞓘𞓙𞓚𞓛𞓜𞓝𞓞𞓟𞓠𞓡𞓢𞓣𞓤𞓥𞓦𞓧𞓨𞓩𞓪
-𞓥𞓥𞓨𞓑𞓑𞓨𞓨𞓑𞓑𞓥𞓑𞓑𞓥𞓥𞓨𞓕𞓨𞓥𞓥𞓨𞓙𞓥𞓥𞓨𞓠𞓨𞓥𞓥𞓨𞓦𞓥𞓥𞓚𞓨𞓥𞓥𞓘𞓨𞓥𞓥𞓥𞓓𞓖𞓩𞓗𞓢𞓥𞓥𞓢𞓖𞓥𞓥𞓢𞓩𞓥𞓥𞓢𞓘𞓥𞓥𞓢𞓞𞓥𞓥𞓢𞓪𞓥𞓥𞓥𞓥𞓢𞓨𞓢𞓥𞓥𞓢𞓚𞓥𞓥𞓢𞓞𞓢𞓥𞓥𞓢𞓑𞓥𞓥𞓥𞓢𞓩"
+𞓥𞓥𞓨𞓑𞓑𞓨𞓨𞓑𞓑𞓥𞓑𞓑𞓥𞓥𞓨𞓕𞓨𞓥𞓥𞓨𞓙𞓥𞓥𞓨𞓠𞓨𞓥𞓥𞓨𞓦𞓥𞓥𞓚𞓨𞓥𞓥𞓘𞓨𞓥𞓥𞓥𞓓𞓖𞓩𞓗𞓢𞓥𞓥𞓢𞓖𞓥𞓥𞓢𞓩𞓥𞓥𞓢𞓘𞓥𞓥𞓢𞓞𞓥𞓥𞓢𞓪𞓥𞓥𞓥𞓥𞓢𞓨𞓢𞓥𞓥𞓢𞓚𞓥𞓥𞓢𞓞𞓢𞓥𞓥𞓢𞓑𞓥𞓥𞓥𞓢𞓩𞓥𞓥𞓢𞓟𞓥𞓥𞓨𞓟𞓥𞓥𞓞𞓦𞓥𞓥𞓞𞓙𞓚𞓞"
 );
 axes = (
 {
@@ -1533,7 +1533,7 @@ unicode = 124120;
 {
 color = 4;
 glyphname = "ah-nagmundari";
-lastChange = "2023-02-19 01:53:56 +0000";
+lastChange = "2023-02-19 02:00:33 +0000";
 layers = (
 {
 anchors = (
@@ -2254,7 +2254,7 @@ unicode = 124125;
 {
 color = 4;
 glyphname = "ih-nagmundari";
-lastChange = "2023-02-19 01:50:16 +0000";
+lastChange = "2023-02-19 02:02:49 +0000";
 layers = (
 {
 anchors = (
@@ -2365,7 +2365,7 @@ unicode = 124126;
 {
 color = 4;
 glyphname = "u-nagmundari";
-lastChange = "2023-02-18 17:12:32 +0000";
+lastChange = "2023-02-19 01:59:09 +0000";
 layers = (
 {
 anchors = (
@@ -2818,7 +2818,7 @@ unicode = 124129;
 {
 color = 4;
 glyphname = "uk-nagmundari";
-lastChange = "2023-02-19 01:56:03 +0000";
+lastChange = "2023-02-19 02:01:55 +0000";
 layers = (
 {
 anchors = (
@@ -3390,7 +3390,7 @@ unicode = 124133;
 {
 color = 4;
 glyphname = "eg-nagmundari";
-lastChange = "2023-02-19 01:54:26 +0000";
+lastChange = "2023-02-19 02:00:29 +0000";
 layers = (
 {
 anchors = (
@@ -3690,7 +3690,7 @@ unicode = 124135;
 {
 color = 4;
 glyphname = "en-nagmundari";
-lastChange = "2023-02-19 01:55:14 +0000";
+lastChange = "2023-02-19 02:01:44 +0000";
 layers = (
 {
 anchors = (
@@ -3768,7 +3768,7 @@ unicode = 124136;
 {
 color = 4;
 glyphname = "ett-nagmundari";
-lastChange = "2023-02-19 01:07:03 +0000";
+lastChange = "2023-02-19 02:01:51 +0000";
 layers = (
 {
 anchors = (
@@ -9361,7 +9361,7 @@ m01 = {
 "ett-nagmundari" = 40;
 "op-nagmundari" = -10;
 "uc-nagmundari" = 30;
-"uk-nagmundari" = -50;
+"uk-nagmundari" = -60;
 };
 "enn-nagmundari" = {
 "@MMK_R_period" = -40;
@@ -9369,12 +9369,15 @@ m01 = {
 "i-nagmundari" = {
 "@MMK_R_colon" = 20;
 "en-nagmundari" = -50;
+"ih-nagmundari" = -20;
 };
 "idd-nagmundari" = {
 "@MMK_R_period" = -50;
 };
 "ih-nagmundari" = {
 "@MMK_R_period" = -30;
+"ah-nagmundari" = -15;
+"eg-nagmundari" = -15;
 "uk-nagmundari" = -20;
 };
 "is-nagmundari" = {
@@ -9415,8 +9418,11 @@ four = -80;
 "uk-nagmundari" = {
 "@MMK_R_colon" = 30;
 "aj-nagmundari" = -10;
+"en-nagmundari" = -10;
+"ett-nagmundari" = -10;
 "ih-nagmundari" = -20;
 "op-nagmundari" = -10;
+"u-nagmundari" = -10;
 };
 };
 m002 = {
@@ -9450,15 +9456,18 @@ m002 = {
 "en-nagmundari" = 40;
 "ett-nagmundari" = 40;
 "op-nagmundari" = -35;
-"uk-nagmundari" = -40;
+"uk-nagmundari" = -70;
 };
 "enn-nagmundari" = {
 "@MMK_R_period" = -20;
 };
 "i-nagmundari" = {
 "en-nagmundari" = -55;
+"ih-nagmundari" = -30;
 };
 "ih-nagmundari" = {
+"ah-nagmundari" = -20;
+"eg-nagmundari" = -20;
 "uk-nagmundari" = -20;
 };
 "is-nagmundari" = {
@@ -9490,6 +9499,8 @@ four = -40;
 "uk-nagmundari" = {
 "@MMK_R_period" = 20;
 "aj-nagmundari" = -10;
+"en-nagmundari" = -20;
+"ett-nagmundari" = -10;
 "op-nagmundari" = -10;
 };
 };
