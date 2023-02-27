@@ -25,14 +25,14 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-disabled = 1;
 code = "";
+disabled = 1;
 tag = aalt;
 },
 {
 automatic = 1;
-disabled = 1;
 code = "";
+disabled = 1;
 labels = (
 {
 language = dflt;
@@ -51,6 +51,10 @@ customParameters = (
 {
 name = "Master Icon Glyph Name";
 value = "em-nagmundari";
+},
+{
+name = winAscent;
+value = 1073;
 }
 );
 id = m01;
@@ -92,6 +96,10 @@ customParameters = (
 {
 name = "Master Icon Glyph Name";
 value = "em-nagmundari";
+},
+{
+name = winAscent;
+value = 1073;
 }
 );
 id = m002;
@@ -5566,8 +5574,8 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (601,714);
 angle = 180;
+pos = (601,714);
 ref = six;
 }
 );
@@ -5577,8 +5585,8 @@ width = 601;
 layerId = m002;
 shapes = (
 {
-pos = (633,714);
 angle = 180;
+pos = (633,714);
 ref = six;
 }
 );
@@ -5809,8 +5817,8 @@ width = 271;
 }
 );
 metricLeft = period;
-note = comma;
 metricRight = period;
+note = comma;
 unicode = 44;
 },
 {
@@ -9003,7 +9011,6 @@ layers = (
 anchors = (
 {
 name = _bottom;
-pos = (0,0);
 }
 );
 layerId = m01;
@@ -9019,7 +9026,6 @@ width = 0;
 anchors = (
 {
 name = _bottom;
-pos = (0,0);
 }
 );
 layerId = m002;
@@ -9148,6 +9154,8 @@ axesValues = (
 instanceInterpolations = {
 m002 = 1;
 };
+isBold = 1;
+linkStyle = Regular;
 name = Bold;
 weightClass = 700;
 }
@@ -9360,14 +9368,19 @@ type = "italic angle";
 properties = (
 {
 key = copyrights;
-value = "Copyright 2023 The Noto Project Authors (https://github.com/notofonts/nag-mundari)";
+values = (
+{
+language = dflt;
+value = "Copyright 2023 Google Inc. All Rights Reserved.";
+}
+);
 },
 {
 key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 }
 );
 },
@@ -9396,6 +9409,10 @@ value = "Muthu Nedumaran";
 {
 key = designerURL;
 value = "https://murasu.com";
+},
+{
+key = vendorID;
+value = GOOG;
 }
 );
 settings = {
@@ -9403,8 +9420,6 @@ disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 keepAlternatesTogether = 1;
 };
-stems = (
-);
 unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 0;

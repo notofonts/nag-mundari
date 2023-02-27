@@ -1,4 +1,7 @@
 googleFonts: true
 sources:
 - NotoSansNagMundari.glyphs
+includeSubsets:
+- from: Noto Sans
+  name: GF_Latin_Core
 familyName: Noto Sans Nag Mundari
