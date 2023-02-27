@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE glyphData [
+<!ELEMENT glyphData (glyph)+>
+<!ATTLIST glyphData
+	format			CDATA		#IMPLIED>
+<!ELEMENT glyph EMPTY>
+<!ATTLIST glyph
+	unicode			CDATA		#IMPLIED
+	unicodeLegacy	CDATA		#IMPLIED
+	name			CDATA		#REQUIRED
+	sortName		CDATA		#IMPLIED
+	sortNameKeep	CDATA		#IMPLIED
+	category		CDATA		#REQUIRED
+	subCategory		CDATA		#IMPLIED
+	case			CDATA		#IMPLIED
+	direction		CDATA		#IMPLIED
+	script			CDATA		#IMPLIED
+	description		CDATA		#IMPLIED
+	production		CDATA		#IMPLIED
+	altNames		CDATA		#IMPLIED
+	decompose		CDATA		#IMPLIED
+	anchors			CDATA		#IMPLIED
+	marks			CDATA		#IMPLIED>
+]>
+<glyphData format="2">
+	<glyph unicode="1E4D0" name="o-nagmundari" sortName="nm00" category="Letter" script="nagmundari" production="u1E4D0" description="NAG MUNDARI LETTER O" />
+	<glyph unicode="1E4D1" name="op-nagmundari" sortName="nm02" category="Letter" script="nagmundari" production="u1E4D1" description="NAG MUNDARI LETTER OP" />
+	<glyph unicode="1E4D2" name="ol-nagmundari" sortName="nm04" category="Letter" script="nagmundari" production="u1E4D2" description="NAG MUNDARI LETTER OL" />
+	<glyph unicode="1E4D3" name="oy-nagmundari" sortName="nm06" category="Letter" script="nagmundari" production="u1E4D3" description="NAG MUNDARI LETTER OY" />
+	<glyph unicode="1E4D4" name="ong-nagmundari" sortName="nm08" category="Letter" script="nagmundari" production="u1E4D4" description="NAG MUNDARI LETTER ONG" />
+	<glyph unicode="1E4D5" name="a-nagmundari" sortName="nm10" category="Letter" script="nagmundari" production="u1E4D5" description="NAG MUNDARI LETTER A" />
+	<glyph unicode="1E4D6" name="aj-nagmundari" sortName="nm12" category="Letter" script="nagmundari" production="u1E4D6" description="NAG MUNDARI LETTER AJ" />
+	<glyph unicode="1E4D7" name="ab-nagmundari" sortName="nm14" category="Letter" script="nagmundari" production="u1E4D7" description="NAG MUNDARI LETTER AB" />
+	<glyph unicode="1E4D8" name="any-nagmundari" sortName="nm16" category="Letter" script="nagmundari" production="u1E4D8" description="NAG MUNDARI LETTER ANY" />
+	<glyph unicode="1E4D9" name="ah-nagmundari" sortName="nm18" category="Letter" script="nagmundari" production="u1E4D9" description="NAG MUNDARI LETTER AH" />
+	<glyph unicode="1E4DA" name="i-nagmundari" sortName="nm20" category="Letter" script="nagmundari" production="u1E4DA" description="NAG MUNDARI LETTER I" />
+	<glyph unicode="1E4DB" name="is-nagmundari" sortName="nm22" category="Letter" script="nagmundari" production="u1E4DB" description="NAG MUNDARI LETTER IS" />
+	<glyph unicode="1E4DC" name="idd-nagmundari" sortName="nm24" category="Letter" script="nagmundari" production="u1E4DC" description="NAG MUNDARI LETTER IDD" />
+	<glyph unicode="1E4DD" name="it-nagmundari" sortName="nm26" category="Letter" script="nagmundari" production="u1E4DD" description="NAG MUNDARI LETTER IT" />
+	<glyph unicode="1E4DE" name="ih-nagmundari" sortName="nm28" category="Letter" script="nagmundari" production="u1E4DE" description="NAG MUNDARI LETTER IH" />
+	<glyph unicode="1E4DF" name="u-nagmundari" sortName="nm30" category="Letter" script="nagmundari" production="u1E4DF" description="NAG MUNDARI LETTER U" />
+	<glyph unicode="1E4E0" name="uc-nagmundari" sortName="nm32" category="Letter" script="nagmundari" production="u1E4E0" description="NAG MUNDARI LETTER UC" />
+	<glyph unicode="1E4E1" name="ud-nagmundari" sortName="nm34" category="Letter" script="nagmundari" production="u1E4E1" description="NAG MUNDARI LETTER UD" />
+	<glyph unicode="1E4E2" name="uk-nagmundari" sortName="nm36" category="Letter" script="nagmundari" production="u1E4E2" description="NAG MUNDARI LETTER UK" />
+	<glyph unicode="1E4E3" name="ur-nagmundari" sortName="nm38" category="Letter" script="nagmundari" production="u1E4E3" description="NAG MUNDARI LETTER UR" />
+	<glyph unicode="1E4E4" name="e-nagmundari" sortName="nm40" category="Letter" script="nagmundari" production="u1E4E4" description="NAG MUNDARI LETTER E" />
+	<glyph unicode="1E4E5" name="enn-nagmundari" sortName="nm42" category="Letter" script="nagmundari" production="u1E4E5" description="NAG MUNDARI LETTER ENN" />
+	<glyph unicode="1E4E6" name="eg-nagmundari" sortName="nm44" category="Letter" script="nagmundari" production="u1E4E6" description="NAG MUNDARI LETTER EG" />
+	<glyph unicode="1E4E7" name="em-nagmundari" sortName="nm46" category="Letter" script="nagmundari" production="u1E4E7" description="NAG MUNDARI LETTER EM" />
+	<glyph unicode="1E4E8" name="en-nagmundari" sortName="nm48" category="Letter" script="nagmundari" production="u1E4E8" description="NAG MUNDARI LETTER EN" />
+	<glyph unicode="1E4E9" name="ett-nagmundari" sortName="nm50" category="Letter" script="nagmundari" production="u1E4E9" description="NAG MUNDARI LETTER ETT" />
+	<glyph unicode="1E4EA" name="ell-nagmundari" sortName="nm52" category="Letter" script="nagmundari" production="u1E4EA" description="NAG MUNDARI LETTER ELL" />
+	<glyph unicode="1E4EB" name="ojod-nagmundari" sortName="nm54" category="Letter" subCategory="Modifier" script="nagmundari" production="u1E4EB" description="NAG MUNDARI SIGN OJOD" />
+	<glyph unicode="1E4EC" name="muhor-nagmundari" sortName="nm56" category="Mark" subCategory="Nonspacing" script="nagmundari" production="u1E4EC" description="NAG MUNDARI SIGN MUHOR" />
+	<glyph unicode="1E4ED" name="toyor-nagmundari" sortName="nm58" category="Mark" subCategory="Nonspacing" script="nagmundari" production="u1E4ED" description="NAG MUNDARI SIGN TOYOR" />
+	<glyph unicode="1E4EE" name="ikir-nagmundari" sortName="nm60" category="Mark" subCategory="Nonspacing" script="nagmundari" production="u1E4EE" description="NAG MUNDARI SIGN IKIR" anchors="_bottom" />
+	<glyph unicode="1E4EF" name="sutuh-nagmundari" sortName="nm62" category="Mark" subCategory="Nonspacing" script="nagmundari" production="u1E4EF" description="NAG MUNDARI SIGN SUTUH" anchors="_top" />
+	<glyph unicode="1E4F0" name="zero-nagmundari" sortName="nm64" category="Number" subCategory="Decimal Digit" script="nagmundari" production="u1E4F0" description="NAG MUNDARI DIGIT ZERO" />
+	<glyph unicode="1E4F1" name="one-nagmundari" sortName="nm66" category="Number" subCategory="Decimal Digit" script="nagmundari" production="u1E4F1" description="NAG MUNDARI DIGIT ONE" />
+	<glyph unicode="1E4F2" name="two-nagmundari" sortName="nm68" category="Number" subCategory="Decimal Digit" script="nagmundari" production="u1E4F2" description="NAG MUNDARI DIGIT TWO" />
+	<glyph unicode="1E4F3" name="three-nagmundari" sortName="nm70" category="Number" subCategory="Decimal Digit" script="nagmundari" production="u1E4F3" description="NAG MUNDARI DIGIT THREE" />
+	<glyph unicode="1E4F4" name="four-nagmundari" sortName="nm72" category="Number" subCategory="Decimal Digit" script="nagmundari" production="u1E4F4" description="NAG MUNDARI DIGIT FOUR" />
+	<glyph unicode="1E4F5" name="five-nagmundari" sortName="nm74" category="Number" subCategory="Decimal Digit" script="nagmundari" production="u1E4F5" description="NAG MUNDARI DIGIT FIVE" />
+	<glyph unicode="1E4F6" name="six-nagmundari" sortName="nm76" category="Number" subCategory="Decimal Digit" script="nagmundari" production="u1E4F6" description="NAG MUNDARI DIGIT SIX" />
+	<glyph unicode="1E4F7" name="seven-nagmundari" sortName="nm78" category="Number" subCategory="Decimal Digit" script="nagmundari" production="u1E4F7" description="NAG MUNDARI DIGIT SEVEN" />
+	<glyph unicode="1E4F8" name="eight-nagmundari" sortName="nm80" category="Number" subCategory="Decimal Digit" script="nagmundari" production="u1E4F8" description="NAG MUNDARI DIGIT EIGHT" />
+	<glyph unicode="1E4F9" name="nine-nagmundari" sortName="nm82" category="Number" subCategory="Decimal Digit" script="nagmundari" production="u1E4F9" description="NAG MUNDARI DIGIT NINE" />
+</glyphData>
