@@ -4716,9 +4716,8 @@ width = 672;
 },
 {
 color = 4;
-export = 0;
 glyphname = zero;
-lastChange = "2023-02-27 10:01:27 +0000";
+lastChange = "2023-02-27 10:06:40 +0000";
 layers = (
 {
 layerId = m01;
@@ -4806,9 +4805,8 @@ unicode = 48;
 },
 {
 color = 4;
-export = 0;
 glyphname = one;
-lastChange = "2023-02-27 10:01:27 +0000";
+lastChange = "2023-02-27 10:07:00 +0000";
 layers = (
 {
 layerId = m01;
@@ -4858,9 +4856,8 @@ unicode = 49;
 },
 {
 color = 4;
-export = 0;
 glyphname = two;
-lastChange = "2023-02-27 10:01:27 +0000";
+lastChange = "2023-02-27 10:07:00 +0000";
 layers = (
 {
 layerId = m01;
@@ -4950,9 +4947,8 @@ unicode = 50;
 },
 {
 color = 4;
-export = 0;
 glyphname = three;
-lastChange = "2023-02-27 10:01:27 +0000";
+lastChange = "2023-02-27 10:07:00 +0000";
 layers = (
 {
 layerId = m01;
@@ -5066,9 +5062,8 @@ unicode = 51;
 },
 {
 color = 4;
-export = 0;
 glyphname = four;
-lastChange = "2023-02-27 10:01:27 +0000";
+lastChange = "2023-02-27 10:07:00 +0000";
 layers = (
 {
 layerId = m01;
@@ -5140,9 +5135,8 @@ unicode = 52;
 },
 {
 color = 4;
-export = 0;
 glyphname = five;
-lastChange = "2023-02-27 10:01:27 +0000";
+lastChange = "2023-02-27 10:06:51 +0000";
 layers = (
 {
 layerId = m01;
@@ -5238,9 +5232,8 @@ unicode = 53;
 },
 {
 color = 4;
-export = 0;
 glyphname = six;
-lastChange = "2023-02-27 10:01:27 +0000";
+lastChange = "2023-02-27 10:07:00 +0000";
 layers = (
 {
 guides = (
@@ -5368,9 +5361,8 @@ unicode = 54;
 },
 {
 color = 4;
-export = 0;
 glyphname = seven;
-lastChange = "2023-02-27 10:01:27 +0000";
+lastChange = "2023-02-27 10:07:00 +0000";
 layers = (
 {
 layerId = m01;
@@ -5424,9 +5416,8 @@ unicode = 55;
 },
 {
 color = 4;
-export = 0;
 glyphname = eight;
-lastChange = "2023-02-27 10:01:27 +0000";
+lastChange = "2023-02-27 10:07:00 +0000";
 layers = (
 {
 layerId = m01;
@@ -5576,9 +5567,8 @@ unicode = 56;
 },
 {
 color = 4;
-export = 0;
 glyphname = nine;
-lastChange = "2023-02-27 10:01:27 +0000";
+lastChange = "2023-02-27 10:07:00 +0000";
 layers = (
 {
 layerId = m01;
@@ -5737,10 +5727,8 @@ unicode = 96;
 },
 {
 color = 1;
-export = 0;
 glyphname = period;
-kernLeft = period;
-lastChange = "2023-02-27 10:01:18 +0000";
+lastChange = "2023-02-27 10:06:16 +0000";
 layers = (
 {
 layerId = m01;
@@ -5778,10 +5766,8 @@ unicode = 46;
 },
 {
 color = 1;
-export = 0;
 glyphname = comma;
-kernLeft = period;
-lastChange = "2023-02-27 10:01:18 +0000";
+lastChange = "2023-02-27 10:06:16 +0000";
 layers = (
 {
 layerId = m01;
@@ -5835,10 +5821,8 @@ unicode = 44;
 },
 {
 color = 1;
-export = 0;
 glyphname = colon;
-kernLeft = colon;
-lastChange = "2023-02-27 10:01:18 +0000";
+lastChange = "2023-02-27 10:06:16 +0000";
 layers = (
 {
 layerId = m01;
@@ -5874,10 +5858,8 @@ unicode = 58;
 },
 {
 color = 1;
-export = 0;
 glyphname = semicolon;
-kernLeft = colon;
-lastChange = "2023-02-27 10:01:18 +0000";
+lastChange = "2023-02-27 10:06:16 +0000";
 layers = (
 {
 guides = (
@@ -9215,38 +9197,44 @@ weightClass = 700;
 kerningLTR = {
 m01 = {
 "a-nagmundari" = {
-"@MMK_R_colon" = 60;
 "en-nagmundari" = -50;
+colon = 60;
+semicolon = 60;
 };
 "ab-nagmundari" = {
 "ab-nagmundari" = -20;
 "uk-nagmundari" = -60;
 };
 "ah-nagmundari" = {
-"@MMK_R_colon" = 30;
+colon = 30;
+semicolon = 30;
 };
 "aj-nagmundari" = {
-"@MMK_R_period" = -40;
+period = -40;
+comma = -40;
 };
 "any-nagmundari" = {
-"@MMK_R_colon" = 20;
 "any-nagmundari" = -50;
 "en-nagmundari" = -50;
+colon = 20;
+semicolon = 20;
 };
 "e-nagmundari" = {
-"@MMK_R_colon" = 20;
+colon = 20;
+semicolon = 20;
 };
 "eg-nagmundari" = {
-"@MMK_R_colon" = 30;
+colon = 30;
+semicolon = 30;
 };
 "eight-nagmundari" = {
 "nine-nagmundari" = -150;
 };
 "ell-nagmundari" = {
-"@MMK_R_period" = -40;
+period = -40;
+comma = -40;
 };
 "en-nagmundari" = {
-"@MMK_R_period" = -70;
 "ah-nagmundari" = -50;
 "eg-nagmundari" = -50;
 "en-nagmundari" = 60;
@@ -9254,38 +9242,49 @@ m01 = {
 "op-nagmundari" = -10;
 "uc-nagmundari" = 30;
 "uk-nagmundari" = -60;
+period = -70;
+comma = -70;
 };
 "enn-nagmundari" = {
-"@MMK_R_period" = -40;
+period = -40;
+comma = -40;
 };
 "i-nagmundari" = {
-"@MMK_R_colon" = 20;
 "en-nagmundari" = -50;
 "ih-nagmundari" = -20;
+colon = 20;
+semicolon = 20;
 };
 "idd-nagmundari" = {
-"@MMK_R_period" = -50;
+period = -50;
+comma = -50;
 };
 "ih-nagmundari" = {
-"@MMK_R_period" = -30;
 "ah-nagmundari" = -15;
 "eg-nagmundari" = -15;
 "uk-nagmundari" = -20;
+period = -30;
+comma = -30;
 };
 "is-nagmundari" = {
-"@MMK_R_period" = -40;
+period = -40;
+comma = -40;
 };
 "it-nagmundari" = {
-"@MMK_R_period" = -50;
+period = -50;
+comma = -50;
 };
 "ol-nagmundari" = {
-"@MMK_R_period" = -40;
+period = -40;
+comma = -40;
 };
 "ong-nagmundari" = {
-"@MMK_R_colon" = 20;
+colon = 20;
+semicolon = 20;
 };
 "op-nagmundari" = {
-"@MMK_R_period" = -40;
+period = -40;
+comma = -40;
 };
 seven = {
 four = -80;
@@ -9297,24 +9296,29 @@ four = -80;
 "nine-nagmundari" = -230;
 };
 "u-nagmundari" = {
-"@MMK_R_period" = -50;
+period = -50;
+comma = -50;
 };
 "uc-nagmundari" = {
-"@MMK_R_colon" = 70;
-"@MMK_R_period" = 60;
 "en-nagmundari" = -40;
+period = 60;
+comma = 60;
+colon = 70;
+semicolon = 70;
 };
 "ud-nagmundari" = {
-"@MMK_R_colon" = 20;
+colon = 20;
+semicolon = 20;
 };
 "uk-nagmundari" = {
-"@MMK_R_colon" = 30;
 "aj-nagmundari" = -10;
 "en-nagmundari" = -10;
 "ett-nagmundari" = -10;
 "ih-nagmundari" = -20;
 "op-nagmundari" = -10;
 "u-nagmundari" = -10;
+colon = 30;
+semicolon = 30;
 };
 };
 m002 = {
@@ -9322,14 +9326,17 @@ m002 = {
 "en-nagmundari" = -60;
 };
 "ab-nagmundari" = {
-"@MMK_R_period" = -80;
 "uk-nagmundari" = -80;
+period = -80;
+comma = -80;
 };
 "ah-nagmundari" = {
-"@MMK_R_period" = -40;
+period = -40;
+comma = -40;
 };
 "aj-nagmundari" = {
-"@MMK_R_period" = -20;
+period = -20;
+comma = -20;
 };
 "any-nagmundari" = {
 "any-nagmundari" = -70;
@@ -9339,19 +9346,22 @@ m002 = {
 "nine-nagmundari" = -150;
 };
 "ell-nagmundari" = {
-"@MMK_R_period" = -20;
+period = -20;
+comma = -20;
 };
 "en-nagmundari" = {
-"@MMK_R_period" = -70;
 "ah-nagmundari" = -80;
 "eg-nagmundari" = -80;
 "en-nagmundari" = 40;
 "ett-nagmundari" = 40;
 "op-nagmundari" = -35;
 "uk-nagmundari" = -70;
+period = -70;
+comma = -70;
 };
 "enn-nagmundari" = {
-"@MMK_R_period" = -20;
+period = -20;
+comma = -20;
 };
 "i-nagmundari" = {
 "en-nagmundari" = -55;
@@ -9363,13 +9373,16 @@ m002 = {
 "uk-nagmundari" = -20;
 };
 "is-nagmundari" = {
-"@MMK_R_period" = -20;
+period = -20;
+comma = -20;
 };
 "o-nagmundari" = {
-"@MMK_R_period" = -20;
+period = -20;
+comma = -20;
 };
 "op-nagmundari" = {
-"@MMK_R_period" = -20;
+period = -20;
+comma = -20;
 };
 seven = {
 four = -40;
@@ -9381,19 +9394,22 @@ four = -40;
 "nine-nagmundari" = -190;
 };
 "u-nagmundari" = {
-"@MMK_R_period" = -40;
 "u-nagmundari" = -30;
+period = -40;
+comma = -40;
 };
 "uc-nagmundari" = {
-"@MMK_R_period" = 20;
 "en-nagmundari" = -70;
+period = 20;
+comma = 20;
 };
 "uk-nagmundari" = {
-"@MMK_R_period" = 20;
 "aj-nagmundari" = -10;
 "en-nagmundari" = -20;
 "ett-nagmundari" = -10;
 "op-nagmundari" = -10;
+period = 20;
+comma = 20;
 };
 };
 };
