@@ -1,10 +1,16 @@
 {
-.appVersion = "3151";
+.appVersion = "3177";
 .formatVersion = 3;
 axes = (
 {
 name = Weight;
 tag = wght;
+}
+);
+customParameters = (
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2022-04-03 17:04:08 +0000";
@@ -19,14 +25,14 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "";
 disabled = 1;
+code = "";
 tag = aalt;
 },
 {
 automatic = 1;
-code = "";
 disabled = 1;
+code = "";
 labels = (
 {
 language = dflt;
@@ -5560,8 +5566,8 @@ layers = (
 layerId = m01;
 shapes = (
 {
-angle = 180;
 pos = (601,714);
+angle = 180;
 ref = six;
 }
 );
@@ -5571,8 +5577,8 @@ width = 601;
 layerId = m002;
 shapes = (
 {
-angle = 180;
 pos = (633,714);
+angle = 180;
 ref = six;
 }
 );
@@ -5803,8 +5809,8 @@ width = 271;
 }
 );
 metricLeft = period;
-metricRight = period;
 note = comma;
+metricRight = period;
 unicode = 44;
 },
 {
@@ -8997,6 +9003,7 @@ layers = (
 anchors = (
 {
 name = _bottom;
+pos = (0,0);
 }
 );
 layerId = m01;
@@ -9012,6 +9019,7 @@ width = 0;
 anchors = (
 {
 name = _bottom;
+pos = (0,0);
 }
 );
 layerId = m002;
@@ -9352,12 +9360,7 @@ type = "italic angle";
 properties = (
 {
 key = copyrights;
-values = (
-{
-language = dflt;
-value = "Copyright 2022 Google Inc. All Rights Reserved.";
-}
-);
+value = "Copyright 2023 The Noto Project Authors (https://github.com/notofonts/nag-mundari)";
 },
 {
 key = licenses;
@@ -9400,6 +9403,8 @@ disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 keepAlternatesTogether = 1;
 };
+stems = (
+);
 unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 0;
