@@ -19,14 +19,13 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature ss01;
-";
+code = "";
+disabled = 1;
 tag = aalt;
 },
 {
 automatic = 1;
-code = "sub op-nagmundari by op-nagmundari.ss01;
-";
+code = "";
 disabled = 1;
 labels = (
 {
