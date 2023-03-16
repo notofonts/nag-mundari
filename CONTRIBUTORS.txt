@@ -8,3 +8,6 @@
 #
 # Names should be added to this file as:
 # Name <email address>
+
+# Design and research for first version
+Muthu Nedumaran <muthu@murasu.com>
