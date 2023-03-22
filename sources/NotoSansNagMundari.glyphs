@@ -6980,7 +6980,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "\"Copyright 2023 The Noto Project Authors (https://github.com/notofonts/nag-mundari)";
+value = "Copyright 2023 The Noto Project Authors (https://github.com/notofonts/nag-mundari)";
 }
 );
 },
