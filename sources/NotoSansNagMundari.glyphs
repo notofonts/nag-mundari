@@ -1,9 +1,6 @@
 {
-.appVersion = "3177";
+.appVersion = "3180";
 .formatVersion = 3;
-DisplayStrings = (
-"𞓟"
-);
 axes = (
 {
 name = Weight;
@@ -21,7 +18,8 @@ familyName = "Noto Sans Nag Mundari";
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;
-languagesystem nagm NAG;";
+languagesystem nagm dflt;
+";
 name = Languagesystems;
 }
 );
@@ -6463,9 +6461,10 @@ note = uni25CC;
 unicode = 9676;
 },
 {
+category = Mark;
 color = 1;
 glyphname = "muhor-nagmundari";
-lastChange = "2023-02-19 02:14:33 +0000";
+lastChange = "2023-03-24 13:18:49 +0000";
 layers = (
 {
 anchors = (
@@ -6526,12 +6525,14 @@ nodes = (
 width = 0;
 }
 );
+subCategory = Nonspacing;
 unicode = 124140;
 },
 {
+category = Mark;
 color = 1;
 glyphname = "toyor-nagmundari";
-lastChange = "2023-02-19 02:16:20 +0000";
+lastChange = "2023-03-24 13:18:49 +0000";
 layers = (
 {
 anchors = (
@@ -6576,12 +6577,14 @@ nodes = (
 width = 0;
 }
 );
+subCategory = Nonspacing;
 unicode = 124141;
 },
 {
+category = Mark;
 color = 1;
 glyphname = "ikir-nagmundari";
-lastChange = "2023-02-19 02:27:45 +0000";
+lastChange = "2023-03-24 13:16:23 +0000";
 layers = (
 {
 anchors = (
@@ -6614,12 +6617,14 @@ ref = "muhor-nagmundari";
 width = 0;
 }
 );
+subCategory = Nonspacing;
 unicode = 124142;
 },
 {
+category = Mark;
 color = 1;
 glyphname = "sutuh-nagmundari";
-lastChange = "2023-02-10 04:14:22 +0000";
+lastChange = "2023-03-24 13:18:44 +0000";
 layers = (
 {
 anchors = (
@@ -6708,6 +6713,7 @@ nodes = (
 width = 0;
 }
 );
+subCategory = Nonspacing;
 unicode = 124143;
 }
 );
