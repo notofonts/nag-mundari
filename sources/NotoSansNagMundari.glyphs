@@ -1,8 +1,8 @@
 {
-.appVersion = "3225";
+.appVersion = "3243";
 .formatVersion = 3;
 DisplayStrings = (
-"𞓫"
+"◌𞓭₹"
 );
 axes = (
 {
@@ -6016,7 +6016,7 @@ unicode = 8377;
 {
 color = 1;
 glyphname = uni25CC;
-lastChange = "2023-02-10 10:51:39 +0000";
+lastChange = "2024-06-07 06:26:01 +0000";
 layers = (
 {
 anchors = (
@@ -6027,6 +6027,10 @@ pos = (349,56);
 {
 name = top;
 pos = (355,638);
+},
+{
+name = vsign;
+pos = (347,714);
 }
 );
 layerId = m01;
@@ -6247,6 +6251,10 @@ pos = (349,56);
 {
 name = top;
 pos = (355,638);
+},
+{
+name = vsign;
+pos = (347,714);
 }
 );
 layerId = m002;
